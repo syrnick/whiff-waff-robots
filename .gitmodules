@@ -13,3 +13,6 @@
 [submodule "whiff_waff_msgs"]
 	path = whiff_waff_msgs
 	url = git@github.com:syrnick/whiff_waff_msgs.git
+[submodule "whiff_waff_web"]
+	path = whiff_waff_web
+	url = git@github.com:syrnick/whiff_waff_web.git
