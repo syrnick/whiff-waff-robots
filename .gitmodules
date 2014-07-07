@@ -10,3 +10,6 @@
 [submodule "arduino-ww-shooter"]
 	path = arduino-ww-shooter
 	url = git@github.com:syrnick/arduino-ww-shooter.git
+[submodule "whiff_waff_msgs"]
+	path = whiff_waff_msgs
+	url = git@github.com:syrnick/whiff_waff_msgs.git
