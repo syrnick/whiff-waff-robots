@@ -1,0 +1,9 @@
+[submodule "ros-web-dev"]
+	path = ros-web-dev
+	url = git@github.com:ros-chef/ros-web-dev.git
+[submodule "ros-web-dev-vm"]
+	path = ros-web-dev-vm
+	url = git@github.com:ros-chef/ros-web-dev-vm.git
+[submodule "ros"]
+	path = ros
+	url = git@github.com:ros-chef/ros.git
