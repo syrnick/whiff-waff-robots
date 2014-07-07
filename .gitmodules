@@ -7,3 +7,6 @@
 [submodule "ros"]
 	path = ros
 	url = git@github.com:ros-chef/ros.git
+[submodule "arduino-ww-shooter"]
+	path = arduino-ww-shooter
+	url = git@github.com:syrnick/arduino-ww-shooter.git
